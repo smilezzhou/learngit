@@ -6,5 +6,6 @@ public class Test {
 		System.out.println("develop !");
 		System.out.println("Hello word");
 		System.out.println("eclipse commit");
+		//Creating a new branch is quick.
 	}
 }
