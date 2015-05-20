@@ -7,5 +7,12 @@ public class Test {
 		System.out.println("Hello word");
 		System.out.println("eclipse commit");
 		//Creating a new branch is quick.
+		//我要在這裡進行大量的修改。可是為什麼是繁體字
+		//能不能不是繁体字，ok,注意，我没有做完。我要先暂存。。。
+		//這裡做了很多的修改
+		
+		
+		//还要再暂停一会儿
+		//搞完了。可以提交了
 	}
 }
